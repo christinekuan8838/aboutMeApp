@@ -18,7 +18,7 @@ struct ContentView: View {
                 Text("Christine Kuan")
                     .font(.largeTitle)
                     .fontWeight(.heavy)
-                    .foregroundColor(Color.pink)
+                    .foregroundColor(Color.white)
                     .padding()
                     .background(Rectangle() .foregroundColor(.white))
                     .cornerRadius(15)
